@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rainypatterson
-- 👀 I’m interested in front-end design and development, traveling, the outdoors, and spending time with my family
+- 👀 I’m interested in front-end design and development, ux/ui design, traveling, and spending time with my family
 - 🌱 I’m currently working towards a BS in Graphic Information Technology
 
 <!---
